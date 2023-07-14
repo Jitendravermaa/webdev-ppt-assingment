@@ -23,7 +23,7 @@ However, it's important to note that hoisting only moves the declarations, not t
 
 02. Function Hoisting:
 
-    Function declarations are hoisted in their entirety, meaning both the function name and its body are moved to the top of their scope. Therefore, you can call the function before its actual declaration in the code.
+    Function declarations are hoisted in their entirety, meaning both the function name and its body aremoved to the top of their scope. Therefore, you can call the function before its actual declaration in the code.
 
     Example:
     `
