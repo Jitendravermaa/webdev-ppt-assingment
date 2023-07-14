@@ -1,4 +1,5 @@
 
+
 The main differences between 'var' and 'let' in JavaScript are in their scoping behavior, hoisting, and redeclaration.
 
 01. Scoping Behavior:
